@@ -1,1 +1,44 @@
 /* Empty file for template. Remember to edit only this file and not the HTML file */
+ .intro {
+    background-image: url(zen-garden-pics/fade\ to\ white\ template.png);
+    display: flex;
+    background-size: cover;
+    background-position: 0 67%;
+    justify-content: space-around;
+    align-items: center;
+    height: 90vh;
+}
+
+h1{
+    font-size: 10vh;
+    margin-top: 450px;
+    font-family:'Georgia','Times';
+    font-style: normal;
+    background-image:url(zen-garden-pics/panda\ in\ the\ corner.png);
+    background-repeat:no-repeat;
+    background-position: 400px;
+    background-position:
+}
+
+h2{
+position: relative;
+top: -45px;
+margin-top: -45px;
+font-size:larger;
+font-family:'Georgia','Times';
+}
+#zen-summary {
+display:flex;
+font-family:'Georgia','Times';
+}
+
+#zen-preamble {
+margin-top: 400px;
+margin-left: -45%;
+font-size:large;
+font-family:'Georgia','Times';
+
+}
+
+
+
