@@ -7,6 +7,7 @@
     justify-content: space-around;
     align-items: center;
     height: 90vh;
+    font-family: 'Mynerve';
 }
 
 h1{
@@ -16,8 +17,10 @@ h1{
     font-style: normal;
     background-image:url(zen-garden-pics/panda\ in\ the\ corner.png);
     background-repeat:no-repeat;
-    background-position: 400px;
-    background-position:
+    background-position: 430px;
+    background-size: 30%;
+    background-position-y: 70px;
+    background-position-x: 410px;
 }
 
 h2{
@@ -37,8 +40,126 @@ margin-top: 400px;
 margin-left: -45%;
 font-size:large;
 font-family:'Georgia','Times';
+font-size: 1.8vh;
+}
 
+#zen-explanation {
+font-size: 2vh;
+margin-top: -7%;
+font-family:'Georgia','Times';
+}
+
+#zen-participation {
+display:flex;
+display:inline-block;
+padding-right: 50%;
+font-size: 2vh;
+background-image: url(zen-garden-pics/leaf\ branch\ 2.png);
+background-repeat:no-repeat;
+background-size: 200px;
+background-position-y: 60%;
+font-family:'Georgia','Times';
 }
 
 
+#zen-benefits {
+display:flex;
+display:inline-block;
+padding-left: 50%;
+font-size: 2vh;
+margin-top: -200%;
+background-image:url(zen-garden-pics/Screenshot\ 2024-11-03\ at\ 10.19.13\ PM.png);
+background-repeat:no-repeat;
+background-position: 450px;
+background-size: 27%;
+background-position: 1000px;
+background-position-y: -25px;
+padding-top:250px;
+font-family:'Georgia','Times';
+}
+
+#zen-requirements {
+display:flex;
+display:inline-block;
+flex-direction:row;
+font-size: 2vh;
+columns: 250px 3;
+padding-top:20px;
+padding-bottom: 20px;
+background-image: url(zen-garden-pics/leaf1real.png);
+background-repeat:no-repeat;
+background-position: 450px;
+background-size: 12%;
+background-position-x:1580px;
+background-position-y: -10px;
+padding-top:20px;
+padding-bottom: 20px;
+font-family:'Georgia','Times';
+}
+
+
+p:last-child {
+font-size: 2vh;
+font-family:'Georgia','Times';
+}
+
+.zen-validate-html {
+font-size: 4vh;
+display:flex;
+margin-left:27%;
+color: #6B946F;
+font-family:'Georgia','Times';
+}
+
+.zen-validate-css {
+font-size: 4vh;
+display:flex;
+margin-left:37%;
+margin-top: -47px;
+color: #6B946F;
+font-family:'Georgia','Times';
+}
+
+.zen-license {
+font-size: 4vh;
+display:flex;
+margin-left:47%;
+margin-top: -47px;
+color: #6B946F;
+font-family:'Georgia','Times';
+}
+
+.zen-accessibility {
+font-size: 4vh;
+display:flex;
+margin-left:57%;
+margin-top: -47px;
+color: #6B946F;
+font-family:'Georgia','Times';
+}
+
+.zen-github {
+font-size: 4vh;
+display:flex;
+margin-left:67%;
+margin-top: -47px;
+color: #6B946F;
+font-family:'Georgia','Times';
+}
+
+#design-selection {
+    font-size: x-large;
+    display:flex;
+    display:inline-block;
+    columns:3;
+    margin-top: 100px;
+    padding: 10px;
+    background-image: url(zen-garden-pics/barrier.png);
+    background-repeat:no-repeat;
+    background-size: 45px;
+    background-position-y: -20px;
+    background-position-x: 986px;
+    font-family:'Georgia','Times';
+    
+}
 
